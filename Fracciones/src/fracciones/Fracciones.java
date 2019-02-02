@@ -102,6 +102,8 @@ public class Fracciones {
             } else {
                 System.out.println("ERROR");
             }
+        } else {
+            System.out.println("ERROR");
         }
 
     }
